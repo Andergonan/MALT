@@ -9,3 +9,4 @@ School project - My Awesome Login Table
 
 
 # Sample
+![malt.gif](https://github.com/Andergonan/MALT/blob/main/docs/malt.gif)
