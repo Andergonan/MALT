@@ -7,6 +7,7 @@ School project - My Awesome Login Table
 - Hesla šifruje pomocí sha1.
 - Komunikuje s db.
 
+![dbScreenshot.png](https://github.com/Andergonan/MALT/blob/main/docs/dbScreenshot.png)
 
 # Sample
 ![malt.gif](https://github.com/Andergonan/MALT/blob/main/docs/malt.gif)
